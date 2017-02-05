@@ -1,0 +1,29 @@
+h1 {
+  color:#DA70D6;
+  font-size:40px;
+  background-color:#00FFFF;
+  text-align:center;
+}
+#p1 {
+  color:#00e500;
+  font-size:55px;
+  text-align:center;
+  background-color: #ffffb2
+}
+
+#p2{
+  color:#ffae19;
+  font-size:20px;
+  text-align:center;
+  background-color: #fff0f7;
+}
+
+#p3{
+  color:red;
+  font-size:30px;
+  text-align:center;
+  background-color:#b2ffb2;
+}
+.color{
+  color:#DA70D6;
+}
