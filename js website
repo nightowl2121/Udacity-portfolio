@@ -1,0 +1,9 @@
+var image = document.getElementById('pic');
+
+image.addEventListener('mouseover', function(event) {
+	image.classList.add('little');
+})
+
+image.addEventListener('mouseout', function(event) {
+  image.classList.remove('little');
+})
