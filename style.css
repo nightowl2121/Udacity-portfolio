@@ -27,3 +27,13 @@ h1 {
 .color{
   color:#DA70D6;
 }
+
+.big {
+  height: 500px;
+  width: 300px;
+}
+
+.little {
+  height: 200px;
+  width: 100px;
+}
