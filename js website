@@ -1,9 +1,13 @@
 var image = document.getElementById('pic');
 
 image.addEventListener('mouseover', function(event) {
-	image.classList.add('little');
+	image.classList.add('big');
 })
 
 image.addEventListener('mouseout', function(event) {
-  image.classList.remove('little');
+  image.classList.remove('big');
+})
+var button = document.getElementById("button");
+button.addEventListener('click', function(event) {
+	image.src="http://images.pcmac.org/SiSFiles/Schools/AL/SaralandCitySchools/SaralandHigh/Uploads/News/%7B9B88FC9E-3402-4822-88E5-236F3AA903F6%7D_dance.png";
 })
